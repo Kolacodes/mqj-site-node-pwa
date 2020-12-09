@@ -1,19 +1,19 @@
 {
-    "name": "Images App",
-    "short_name": "Images App",
+    "name": "My Qur'an Journey",
+    "short_name": "My Qur'an Journey",
     "icons": [
         {
-            "src": "assets/icons/icon-128x128.png",
-            "sizes": "128x128",
+            "src": "assets/icons/icon.png",
+            "sizes": "216x233",
             "type": "image/png"
         },
         {
-            "src": "assets/icons/icon-144x144.png",
+            "src": "assets/icons/icon.png",
             "sizes": "144x144",
             "type": "image/png"
         },
         {
-            "src": "assets/icons/icon-152x152.png",
+            "src": "assets/icons/icon.png",
             "sizes": "152x152",
             "type": "image/png"
         }

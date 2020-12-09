@@ -3,18 +3,18 @@
     "short_name": "My Qur'an Journey",
     "icons": [
         {
-            "src": "assets/icons/icon.png",
-            "sizes": "216x233",
-            "type": "image/png"
-        },
-        {
-            "src": "assets/icons/icon.png",
+            "src": "assets/icons/icon-g-144x144.png",
             "sizes": "144x144",
             "type": "image/png"
         },
         {
-            "src": "assets/icons/icon.png",
-            "sizes": "152x152",
+            "src": "assets/icons/icon-g-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/icons/icon-g-144x144.png",
+            "sizes": "144x144",
             "type": "image/png"
         }
     ],
